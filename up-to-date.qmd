@@ -1,0 +1,5 @@
+---
+title: "Up-to-date notebook"
+---
+
+This notebook is up-to-date and does not have a note at the top
