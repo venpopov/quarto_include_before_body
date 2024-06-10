@@ -1,0 +1,56 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto Test for Global Include",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "archive/file3.html",
+    "href": "archive/file3.html",
+    "title": "Archived notebook 3",
+    "section": "",
+    "text": "Note\n    \n  \n  \n    This notebook has been archived and its contents may not be up-to-date",
+    "crumbs": [
+      "Home",
+      "Archive",
+      "Archived notebook 3"
+    ]
+  },
+  {
+    "objectID": "archive/file1.html",
+    "href": "archive/file1.html",
+    "title": "Archived notebook 1",
+    "section": "",
+    "text": "Note\n    \n  \n  \n    This notebook has been archived and its contents may not be up-to-date",
+    "crumbs": [
+      "Home",
+      "Archive",
+      "Archived notebook 1"
+    ]
+  },
+  {
+    "objectID": "archive/file2.html",
+    "href": "archive/file2.html",
+    "title": "Archived notebook 2",
+    "section": "",
+    "text": "Note\n    \n  \n  \n    This notebook has been archived and its contents may not be up-to-date",
+    "crumbs": [
+      "Home",
+      "Archive",
+      "Archived notebook 2"
+    ]
+  },
+  {
+    "objectID": "up-to-date.html",
+    "href": "up-to-date.html",
+    "title": "Up-to-date notebook",
+    "section": "",
+    "text": "This notebook is up-to-date and does not have a note at the top",
+    "crumbs": [
+      "Home",
+      "Up-to-date notebook"
+    ]
+  }
+]
